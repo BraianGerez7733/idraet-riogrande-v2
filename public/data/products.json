@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Crema Facial Hidratante",
+    "category": "Faciales",
+    "price": 5200,
+    "image": "/assets/cream_pink.png",
+    "description": "Crema hidratante para el rostro, ideal para pieles secas y sensibles.",
+    "benefits": "Hidratación profunda y duradera, suaviza y nutre la piel.",
+    "ingredients": "Ácido hialurónico, vitamina E, aceite de jojoba",
+    "tags": ["Más vendido"]
+  },
+  {
+    "id": "2",
+    "name": "Loción Corporal",
+    "category": "Corporales",
+    "price": 4800,
+    "image": "/assets/lotion_green.png",
+    "description": "Loción nutritiva para el cuerpo de rápida absorción.",
+    "benefits": "Hidrata y suaviza la piel, aroma fresco y delicado.",
+    "ingredients": "Aceite de almendra, vitamina E, aloe vera",
+    "tags": ["Nuevo"]
+  },
+  {
+    "id": "3",
+    "name": "Protector Solar SPF 50",
+    "category": "Protectores solares",
+    "price": 6300,
+    "image": "/assets/sunscreen_yellow.png",
+    "description": "Protector solar de amplio espectro SPF 50, resistente al agua.",
+    "benefits": "Protege de los rayos UVA y UVB, previene el fotoenvejecimiento.",
+    "ingredients": "Óxido de zinc, extracto de aloe vera, vitamina C",
+    "tags": []
+  },
+  {
+    "id": "4",
+    "name": "Crema Antiage",
+    "category": "Anti-age",
+    "price": 7900,
+    "image": "/assets/cream_pink.png",
+    "description": "Crema antienvejecimiento que mejora la elasticidad de la piel.",
+    "benefits": "Reduce líneas de expresión y arrugas, ilumina la piel.",
+    "ingredients": "Retinol, colágeno, coenzima Q10",
+    "tags": ["Sin stock"]
+  },
+  {
+    "id": "5",
+    "name": "Kit Profesional Facial",
+    "category": "Kits profesionales",
+    "price": 20000,
+    "image": "/assets/kit_profesional.png",
+    "description": "Kit completo para tratamientos faciales profesionales.",
+    "benefits": "Incluye limpiador, tónico y crema para un tratamiento integral.",
+    "ingredients": "Consultar ingredientes de cada producto del kit",
+    "tags": []
+  },
+  {
+    "id": "6",
+    "name": "Gel de Limpieza Facial",
+    "category": "Limpieza facial",
+    "price": 3600,
+    "image": "/assets/lotion_green.png",
+    "description": "Gel de limpieza facial que controla el exceso de sebo.",
+    "benefits": "Limpia profundamente, controla el exceso de sebo, respeta el pH de la piel.",
+    "ingredients": "Ácido salicílico, extracto de limón",
+    "tags": []
+  },
+  {
+    "id": "7",
+    "name": "Máscara Hidratante",
+    "category": "Faciales",
+    "price": 4500,
+    "image": "/assets/cream_pink.png",
+    "description": "Máscara hidratante para todo tipo de piel.",
+    "benefits": "Hidrata en profundidad y aporta suavidad inmediata.",
+    "ingredients": "Ácido hialurónico, extracto de manzanilla",
+    "tags": []
+  },
+  {
+    "id": "8",
+    "name": "Serum Rejuvenecedor",
+    "category": "Anti-age",
+    "price": 9100,
+    "image": "/assets/cream_pink.png",
+    "description": "Serum concentrado para revitalizar la piel y darle luminosidad.",
+    "benefits": "Aporta luminosidad, firmeza y elasticidad.",
+    "ingredients": "Vitamina C, péptidos, ácido ferúlico",
+    "tags": ["Nuevo"]
+  }
+]
