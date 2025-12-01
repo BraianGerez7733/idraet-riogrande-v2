@@ -33,7 +33,7 @@
   width: 100%;
   max-width: 500px;
   margin: 0 auto;
-  padding-bottom: 56.25%;
+  padding-bottom: 40%;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
