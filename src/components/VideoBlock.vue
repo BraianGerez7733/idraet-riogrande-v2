@@ -33,7 +33,7 @@
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  padding-bottom: 40%;
+  aspect-ratio: 16 / 7;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
