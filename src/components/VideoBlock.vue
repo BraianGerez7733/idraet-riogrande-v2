@@ -3,7 +3,7 @@
     <h3>Cómo usar nuestros productos</h3>
     <div class="video-container">
       <iframe
-        src="//https:www.youtube.com/embed/vZcrnH3TX2Q"
+        src="https://www.youtube.com/embed/vZcrnH3TX2Q"
         title="Cómo usar nuestros productos"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
